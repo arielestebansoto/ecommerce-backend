@@ -1,0 +1,30 @@
+{
+  "name": "ecommerce-backend",
+  "version": "1.0.0",
+  "description": "An backend for my ecommerce project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "npx nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arielestebansoto/ecommerce-backend.git"
+  },
+  "keywords": [
+    "node",
+    "express",
+    "backend",
+    "ecommerce"
+  ],
+  "author": "Ariel Esteban Soto",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/arielestebansoto/ecommerce-backend/issues"
+  },
+  "homepage": "https://github.com/arielestebansoto/ecommerce-backend#readme",
+  "dependencies": {
+    "express": "^4.17.2",
+    "nodemon": "^2.0.15"
+  }
+}
